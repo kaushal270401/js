@@ -1,0 +1,10 @@
+*{
+    background-color: black;
+    color: white;
+}
+#clock{
+    height: 20px;
+    width: 70px;
+    color: white;
+    background-color: blue;
+}
